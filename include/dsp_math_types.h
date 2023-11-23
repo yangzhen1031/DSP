@@ -61,7 +61,7 @@ typedef double float64_t;
 
 typedef enum {
     DSP_MATH_SUCCESS = 0,
-    
+    DSP_MATH_LENGTH_ERROR = 1,
 } DspStatus;
 
 
